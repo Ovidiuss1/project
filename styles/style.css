@@ -1,0 +1,83 @@
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	
+	min-height:600px;
+	min-width: 1700px;
+	background-image: url(images/space.jpg);
+
+}
+#wrap{
+	height: 450px;
+	min-width:1050px;
+	margin: 0 auto;
+	position: relative;
+}
+.google1, .reddit1, .twitch1{
+	width:350px;
+	height: 350px;
+	display: inline-block;
+}
+
+.reddit1{
+	margin-left: 10%;
+	position: relative;
+	float: left;
+
+}
+
+.google1{
+	float: right;
+	position: relative;
+	margin-right:10%;
+}
+
+
+
+.twitch1{
+	position: relative;
+	margin-left: 12%;
+	margin-right: 5%;
+}
+
+.title{
+	color: #ff8c1a;
+	text-align: center;
+	margin:0 auto;
+	position: relative;
+}
+body{
+
+}
+
+.rtitle{
+	display: none;
+	color: white;
+	text-align: center;
+	margin-bottom: 10%;
+	margin: 0 auto;
+}
+
+#titlu{
+	margin-bottom: 10%;
+	position: relative;
+}
+
+.ttitle{
+	display: none;
+	color: #9900ff;
+	text-align: center;
+	margin-bottom: 10%;
+	margin: 0 auto;
+}
+
+
+.gtitle{
+
+	display: none;
+	
+	text-align: center;
+	margin-bottom: 10%;
+	margin: 0 auto;
+
+}
